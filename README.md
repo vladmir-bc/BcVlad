@@ -9,3 +9,5 @@
 ### Follow Me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](http://linkedin.com/in/vladmirbc)[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/vladmir_bc)[![NumPy](https://img.shields.io/badge/-Stepik-<COLOR>?style=for-the-badge)](https://stepik.org/users/97079898)[![NumPy](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge)](https://www.coursera.org/user/4f24abb3c60396f13e50c0bd691f13a2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BcVlad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
