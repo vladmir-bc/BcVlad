@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">A beginner Data Scientist</h3>
+![Header](https://github.com/BcVlad/bcvlad/blob/main/assets/header.SvCyB.png)
 
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">A beginner Data Scientist</h3>
