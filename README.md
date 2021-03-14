@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/azlimanty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="azlimanty" height="30" width="40" /></a>
 <a href="https://instagram.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vladmir_bc" height="30" width="40" /></a>
 <a href="https://medium.com/@vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vladmir_bc" height="30" width="40" /></a>
-<a href="https://t.me/vladmir_bc" target="blank"><img src="https://i.ibb.co/S7Lx4NM/tele.png" alt="tele" border="0" height="40" width="40"></a>
+<a href="https://t.me/vladmir_bc" target="blank"><img align="center" src="https://i.ibb.co/S7Lx4NM/tele.png" alt="tele" border="0" height="40" width="40"></a>
 </p>
 
 <h3 align="left">Other links:</h3>
