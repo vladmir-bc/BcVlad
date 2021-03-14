@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/vladmir_bc" target="blank"><img src="https://img.shields.io/twitter/follow/vladmir_bc?logo=twitter&style=for-the-badge" alt="vladmir_bc" /></a> </p>
 
-- 🌱 I’m currently learning **ML specialization on Coursera**
+- 🌱 I’m currently learning **ML specialization on Coursera** (https://www.coursera.org/specializations/machine-learning-data-analysis)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://twitter.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vladmir_bc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vladmirbc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vladmirbc" height="30" width="40" /></a>
