@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **Big Data for Data Science** (https://academy.stepik.org/big-data)
 - 📫 How to reach me **vladmirbochek@gmail.com**
-- 📄 Know about my experiences [https://spb.hh.ru/resume/e2911326ff0825a6df0039ed1f5933495a4e66](https://spb.hh.ru/resume/e2911326ff0825a6df0039ed1f5933495a4e66)
 - ⚡ Fun fact **How to motivate yourself: 0.99^365 = 0.03; 1.01^365 = 37.78**
 
 <h3 align="left">Follow me:</h3>
