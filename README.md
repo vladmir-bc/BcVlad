@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vladmir_bc" target="blank"><img src="https://img.shields.io/twitter/follow/vladmir_bc?logo=twitter&style=for-the-badge" alt="vladmir_bc" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data for Data Science** (https://academy.stepik.org/big-data)
+- 🌱 I’m currently learning **Специализация Машинное обучение и анализ данных** (https://www.coursera.org/specializations/machine-learning-data-analysis)
 - 📫 How to reach me **vladmirbochek@gmail.com**
 - ⚡ Fun fact **How to motivate yourself: 0.99^365 = 0.03; 1.01^365 = 37.78**
 
