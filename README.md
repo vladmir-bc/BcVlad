@@ -15,7 +15,7 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
-<a href="https://twitter.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vladmir_bc" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/vladmirbc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vladmirbc" height="30" width="40" /></a>
 <a href="https://kaggle.com/azlimanty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="azlimanty" height="30" width="40" /></a>
 <a href="https://instagram.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vladmir_bc" height="30" width="40" /></a>
