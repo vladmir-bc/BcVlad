@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcvlad" alt="bcvlad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vladmir_bc" target="blank"><img src="https://img.shields.io/twitter/follow/vladmir_bc?logo=twitter&style=for-the-badge" alt="vladmir_bc" /></a> </p>
-<a href="https://twitter.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vladmir_bc" height="30" width="40" /></a>
 
 - 🌱 I’m currently learning **Специализация Машинное обучение и анализ данных** (https://www.coursera.org/specializations/machine-learning-data-analysis)
 - 📫 How to reach me **vladmirbochek@gmail.com**
@@ -20,7 +18,6 @@
 <a href="https://linkedin.com/in/vladmirbc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vladmirbc" height="30" width="40" /></a>
 <a href="https://kaggle.com/azlimanty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="azlimanty" height="30" width="40" /></a>
 <a href="https://instagram.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vladmir_bc" height="30" width="40" /></a>
-<a href="https://medium.com/@vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vladmir_bc" height="30" width="40" /></a>
 <a href="https://t.me/vladmir_bc" target="blank"><img align="center" src="https://i.ibb.co/S7Lx4NM/tele.png" alt="tele" border="0" height="40" width="40"></a>
 </p>
 
