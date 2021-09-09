@@ -6,8 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcvlad&label=Profile%20views&color=0e75b6&style=flat" alt="bcvlad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcvlad" alt="bcvlad" /></a> </p>
-<a href="https://twitter.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vladmir_bc" height="30" width="40" /></a>
+
 <p align="left"> <a href="https://twitter.com/vladmir_bc" target="blank"><img src="https://img.shields.io/twitter/follow/vladmir_bc?logo=twitter&style=for-the-badge" alt="vladmir_bc" /></a> </p>
+<a href="https://twitter.com/vladmir_bc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vladmir_bc" height="30" width="40" /></a>
 
 - 🌱 I’m currently learning **Специализация Машинное обучение и анализ данных** (https://www.coursera.org/specializations/machine-learning-data-analysis)
 - 📫 How to reach me **vladmirbochek@gmail.com**
